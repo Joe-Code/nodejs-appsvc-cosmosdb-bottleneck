@@ -16,7 +16,7 @@ variables:
   - name: loadTestResource
     value: 'lt-jtf-02'
   - name: loadTestResourceGroup
-    value: 'rg-webapp-lt-02'
+    value: 'rg-webapp-lt'
   - name: location
     value: 'EAST US'
 
