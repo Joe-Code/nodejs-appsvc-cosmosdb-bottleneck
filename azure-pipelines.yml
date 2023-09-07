@@ -14,7 +14,7 @@ variables:
   - name: webAppName
     value: 'loadtestapp-jtf-01'
   - name: loadTestResource
-    value: 'lt'
+    value: 'lt-jtf-01'
   - name: loadTestResourceGroup
     value: 'rg-loadtest-01'
   - name: location
