@@ -12,11 +12,11 @@ pool:
 variables:
   - group: 'LoadTest-Group'
   - name: webAppName
-    value: 'loadtestapp-jtf-01'
+    value: 'loadtestapp-jtf-02'
   - name: loadTestResource
-    value: 'lt-jtf-01'
+    value: 'lt-jtf-02'
   - name: loadTestResourceGroup
-    value: 'rg-loadtest-01'
+    value: 'rg-webapp-lt-02'
   - name: location
     value: 'EAST US'
 
