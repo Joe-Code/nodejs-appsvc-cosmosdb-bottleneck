@@ -16,7 +16,7 @@ variables:
   - name: loadTestResource
     value: 'lt'
   - name: loadTestResourceGroup
-    value: 'rg-azloadtest'
+    value: 'rg-loadtest-01'
   - name: location
     value: 'EAST US'
 
