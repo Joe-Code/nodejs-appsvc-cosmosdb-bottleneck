@@ -12,7 +12,7 @@ pool:
 variables:
   - group: 'LoadTest-Group'
   - name: webAppName
-    value: 'loadtestapp'
+    value: 'loadtestapp-jtf'
   - name: loadTestResource
     value: 'lt'
   - name: loadTestResourceGroup
